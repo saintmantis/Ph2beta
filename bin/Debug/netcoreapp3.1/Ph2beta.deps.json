@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ph2beta/1.0.0": {
+        "runtime": {
+          "Ph2beta.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ph2beta/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

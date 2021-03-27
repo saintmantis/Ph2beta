@@ -1,0 +1,16 @@
+C:\Users\Егор\source\repos\Ph2beta\bin\Debug\netcoreapp3.1\Ph2beta.exe
+C:\Users\Егор\source\repos\Ph2beta\bin\Debug\netcoreapp3.1\Ph2beta.deps.json
+C:\Users\Егор\source\repos\Ph2beta\bin\Debug\netcoreapp3.1\Ph2beta.runtimeconfig.json
+C:\Users\Егор\source\repos\Ph2beta\bin\Debug\netcoreapp3.1\Ph2beta.runtimeconfig.dev.json
+C:\Users\Егор\source\repos\Ph2beta\bin\Debug\netcoreapp3.1\Ph2beta.dll
+C:\Users\Егор\source\repos\Ph2beta\bin\Debug\netcoreapp3.1\Ph2beta.pdb
+C:\Users\Егор\source\repos\Ph2beta\obj\Debug\netcoreapp3.1\Ph2beta.Form1.resources
+C:\Users\Егор\source\repos\Ph2beta\obj\Debug\netcoreapp3.1\Ph2beta.csproj.GenerateResource.cache
+C:\Users\Егор\source\repos\Ph2beta\obj\Debug\netcoreapp3.1\Ph2beta.AssemblyInfoInputs.cache
+C:\Users\Егор\source\repos\Ph2beta\obj\Debug\netcoreapp3.1\Ph2beta.AssemblyInfo.cs
+C:\Users\Егор\source\repos\Ph2beta\obj\Debug\netcoreapp3.1\Ph2beta.csproj.CoreCompileInputs.cache
+C:\Users\Егор\source\repos\Ph2beta\obj\Debug\netcoreapp3.1\Ph2beta.dll
+C:\Users\Егор\source\repos\Ph2beta\obj\Debug\netcoreapp3.1\Ph2beta.pdb
+C:\Users\Егор\source\repos\Ph2beta\obj\Debug\netcoreapp3.1\Ph2beta.genruntimeconfig.cache
+C:\Users\Егор\source\repos\Ph2beta\obj\Debug\netcoreapp3.1\Ph2beta.Properties.Resources.resources
+C:\Users\Егор\source\repos\Ph2beta\obj\Debug\netcoreapp3.1\Ph2beta.csprojAssemblyReference.cache

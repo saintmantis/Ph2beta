@@ -1,0 +1,158 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing.Common" name="System.Drawing.Common, Version=4.0.2.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51" />
+  <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing.Common" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        /9j/4AAQSkZJRgABAQEAAAAAAAD/2wBDAAEBAQEBAQEBAQEBAQECAgMCAgICAgQDAwIDBQQFBQUEBAQF
+        BgcGBQUHBgQEBgkGBwgICAgIBQYJCgkICgcICAj/2wBDAQEBAQICAgQCAgQIBQQFCAgICAgICAgICAgI
+        CAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAj/wAARCAIAAgADASIAAhEBAxEB/8QA
+        HwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIh
+        MUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVW
+        V1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXG
+        x8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQF
+        BgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAV
+        YnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+        hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq
+        8vP09fb3+Pn6/90ABAAF/9oADAMBAAIRAxEAPwD+/iiiigAooooAKKKKACiiigAooooA/9D+/iiiigAo
+        oooAKKKKACiiigAooooA/9H+/iiiigAooooAKKKKACiiigAooooA/9L+/iiiigAooooAKKKKACiiigAo
+        oooA/9P+/iiiigAooooAKKKKACiiigAooooA/9T+/iiiigAooooAKKKKACiiigAooooA/9X+/iiiigAo
+        oooAKKKKACiiigAooooA/9b+/iiiigAooooAKKKKACiiigAooooA/9f+/iiiigAooooAKKKKACiiigAo
+        oooA/9D+/iiiigAooooAKKKKACiiigAooooA/9H+/iiiigAooooAKKKKACiiigAooooA/9L+/iiiigAo
+        oooAKKKKACiiigAooooA/9P+/iiiigAooooAKKKKACiiigAooooA/9T+/iiiigAooooAKKKKACiiigAo
+        oooA/9X+/iiiigAooooAKKKKACiiigAooooA/9b+/iiiigAooooAKKKKACiiigAooooA/9f+/iiiigAo
+        oooAKKKKACiiigAooooA/9D+/iiiigAooooAKKKKACiiigAooooA/9H+/iiiigAooooAKKKKACiiigAo
+        oooA/9L+/iiiigAooooAKKKKACiiigAooooA/9P+/iiiigAooooAKKKKACiiigAooooA/9T+/iiiigAo
+        oooAKKKKACiiigAooooA/9X+/iiiigAooooAKKKKACiiigAooooA/9b+/iiiigAooooAKKKKACiiigAo
+        oooA/9f+/iiiigAooooAKKKKACiiigAooooA/9D+/iiiigAooooAKKKKACiiigAooooA/9H+/iiiigAo
+        oooAKKKKACiiigAooooA/9L+/iiiigAooooAKKKKACiiigAooooA/9P+/iiiigAooooAKKKKACiiigAo
+        oooA/9T+/iiiigAooooAKKKKACiiigAooooA/9X+/iiiigAooooAKKKKACiiigAooooA/9b+/iiiigAo
+        oooAKKKKACiiigAooooA/9f+/iiiigAooooAKKKKACiiigAooooA/9D+/iiiigAooooAKKKKACiiigAo
+        oooA/9H+/iiiigAooooAKKKKACiiigAooooA/9L+/iiiigAooooAKKKKACiiigAooooA/9P+/iiiigAo
+        oooAKKKKACiiigAooooA/9T+/iiiigAooooAKKKKACiiigAooooA/9X+/iiiigAooooAKKKKACiiigAo
+        oooA/9b+/iiiigAooooAKKKKACiiigAooooA/9f+/iiiigAooooAKKKKACiiigAooooA/9D+/iiiigAo
+        oooAKKKKACiiigAooooA/9H+/iiiigAooooAKKKKACiiigAooooA/9L+/iiiigAooooAKKKKACiiigAo
+        oooA/9P+/iiiigAooooAKKKKACiiigAooooA/9T+/iiiigAooooAKKKKACiiigAooooA/9X+/iiiigAo
+        oooAKKKKACiiigAooooA/9b+/iiiigAooooAKKKKACiiigAooooA/9f+/iiiigAooooAKKKKACiiigAo
+        oooA/9D+/iiiigAooooAKKKKACiiigAooooA/9H+/iiiigAooooAKKKKACiiigAooooA/9L+/iiiigAo
+        oooAKKKKACiiigAooooA/9P+/iiiigAooooAKKKKACiiigAooooA/9T+/iiiigAooooAKKKKACiiigAo
+        oooA/9X+/iiiigAooooAKKKKACiiigAooooA/9b+/iiiigAooooAKKKKACiiigAooooA/9f+/iiiigAo
+        oooAKKKKACiiigAooooA/9D+/iiiigAooooAKKKKACiiigAooooA/9H+/iiiigAooooAKKKKACiiigAo
+        oooA/9L+/iiiigAooooAKKKKACiiigAooooA/9P+/iiiigAooooAKKKKACiiigAooooA/9T+/iiiigAo
+        oooAKKKKACiiigAooooA/9X+/iiiigAooooAKKKKACiiigAooooA/9b+/iiiigAooooAKKKKACiiigAo
+        oooA/9f+/iiiigAooooAKKKKACiiigAooooA/9D+/iiiigAooooAKKKKACiiigAooooA/9H+/iiiigAo
+        oooAKKKKACiiigAooooA/9L+/iiiigAooooAKKKKACiiigAooooA/9P+/iiiigAooooAKKKKACiiigAo
+        oooA/9T+/iiiigAooooAKKKKACiiigAooooA/9X+/iiiigAooooAKKKKACiiigAooooA/9b+/iiiigAo
+        oooAKKKKACiiigAooooA/9f+/iiiigAooooAKKKKACiiigAooooA/9D+/iiiigAooooAKKKKACiiigAo
+        oooA/9H+/iiiigAooooAKKKKACiiigAooooA/9L+/iiiigAooooAKKKKACiiigAooooA/9P+/iiiigAo
+        oooAKKKKACiiigAooooA/9T+/iiiigAooooAKKKKACiiigAooooA/9X+/iiiigAooooAKKKKACiiigAo
+        oooA/9b+/iiiigAooooAKKKKACiiigAooooA/9f+/iiiigAooooAKKKKACiiigAooooA/9D+/iiiigAo
+        oooAKKKKACiiigAooooA/9H+/iiiigAooooAKKKKACiiigAooooA/9L+/iiiigAooooAKKKKACiiigAo
+        oooA/9P+/iiiigAooooAKKKKACiiigAooooA/9T+/iiiigAooooAKKKKACiiigAooooA/9X+/iiiigAo
+        oooAKKKKACiiigAooooA/9b+/iiiigAooooAKKKKACiiigAooooA/9f+/iiiigAooooAKKKKACiiigAo
+        oooA/9D+/iiiigAooooAKKKKACiiigAooooA/9H+/iiiigAooooAKKKKACiiigAooooA/9L+/iiiigAo
+        oooAKKKKACiiigAooooA/9P+/iiiigAooooAKKKKACiiigAooooA/9T+/iiiigAooooAKKKKACiiigAo
+        oooA/9X+/iiiigAooooAKKKKACiiigAooooA/9b+/iiiigAooooAKKKKACiiigAooooA/9f+/iiiigAo
+        oooAKKKKACiiigAooooA/9D+/iiiigAooooAKKKKACiiigAooooA/9H+/iiiigAooooAKKKKACiiigAo
+        oooA/9L+/iiiigAooooAKKKKACiiigAooooA/9P+/iiiigAooooAKKKKACiiigAooooA/9T+/iiiigAo
+        oooAKKKKACiiigAooooA/9X+/iiiigAooooAKKKKACiiigAooooA/9b+/iiiigAooooAKKKKACiiigAo
+        oooA/9f+/iiiigAooooAKKKKACiiigAooooA/9D+/iiiigAooooAKKKKACiiigAooooA/9H+/iiiigAo
+        oooAKKKKACiiigAooooA/9L+/iiiigAooooAKKKKACiiigAooooA/9P+/iiiigAooooAKKKKACiiigAo
+        oooA/9T+/iiiigAooooAKKKKACiiigAooooA/9X+/iiiigAooooAKKKKACiiigAooooA/9b+/iiiigAo
+        oooAKKKKACiiigAooooA/9f+/iiiigAooooAKKKKACiiigAooooA/9D+/iiiigAooooAKKKKACiiigAo
+        oooA/9H+/iiiigAooooAKKKKACiiigAooooA/9L+/iiiigAooooAKKKKACiiigAooooA/9P+/iiiigAo
+        oooAKKKKACiiigAooooA/9T+/iiiigAooooAKKKKACiiigAooooA/9X+/iiiigAooooAKKKKACiiigAo
+        oooA/9b+/iiiigAooooAKKKKACiiigAooooA/9f+/iiiigAooooAKKKKACiiigAooooA/9D+/iiiigAo
+        oooAKKKKACiiigAooooA/9H+/iiiigAooooAKKKKACiiigAooooA/9L+/iiiigAooooAKKKKACiiigAo
+        oooA/9P+/iiiigAooooAKKKKACiiigAooooA/9T+/iiiigAooooAKKKKACiiigAooooA/9X+/iiiigAo
+        oooAKKKKACiiigAooooA/9b+/iiiigAooooAKKKKACiiigAooooA/9f+/iiiigAooooAKKKKACiiigAo
+        oooA/9D+/iiiigAooooAKKKKACiiigAooooA/9H+/iiiigAooooAKKKKACiiigAooooA/9L+/iiiigAo
+        oooAKKKKACiiigAooooA/9P+/iiiigAooooAKKKKACiiigAooooA/9T+/iiiigAooooAKKKKACiiigAo
+        oooA/9X+/iiiigAooooAKKKKACiiigAooooA/9b+/iiiigAooooAKKKKACiiigAooooA/9f+/iiiigAo
+        oooAKKKKACiiigAooooA/9D+/iiiigAooooAKKKKACiiigAooooA/9H+/iiiigAooooAKKKKACiiigAo
+        oooA/9L+/iiiigAooooAKKKKACiiigAooooA/9P+/iiiigAooooAKKKKACiiigAooooA/9T+/iiiigAo
+        oooAKKKKACiiigAooooA/9X+/iiiigAooooAKKKKACiiigAooooA/9b+/iiiigAooooAKKKKACiiigAo
+        oooA/9f+/iiiigAooooAKKKKACiiigAooooA/9D+/iiiigAooooAKKKKACiiigAooooA/9H+/iiiigAo
+        oooAKKKKACiiigAooooA/9L+/iiiigAooooAKKKKACiiigAooooA/9P+/iiiigAooooAKKKKACiiigAo
+        oooA/9T+/iiiigAooooAKKKKACiiigAooooA/9X+/iiiigAooooAKKKKACiiigAooooA/9b+/iiiigAo
+        oooAKKKKACiiigAooooA/9f+/iiiigAooooAKKKKACiiigAooooA/9D+/iiiigAooooAKKKKACiiigAo
+        oooA/9H+/iiiigAooooAKKKKACiiigAooooA/9L+/iiiigAooooAKKKKACiiigAooooA/9P+/iiiigAo
+        oooAKKKKACiiigAooooA/9T+/iiiigAooooAKKKKACiiigAooooA/9X+/iiiigAooooAKKKKACiiigAo
+        oooA/9b+/iiiigAooooAKKKKACiiigAooooA/9f+/iiiigAooooAKKKKACiiigAooooA/9D+/iiiigAo
+        oooAKKKKACiiigAooooA/9H+/iiiigAooooAKKKKACiiigAooooA/9L+/iiiigAooooAKKKKACiiigAo
+        oooA/9P+/iiiigAooooAKKKKACiiigAooooA/9T+/iiiigAooooAKKKKACiiigAooooA/9X+/iiiigAo
+        oooAKKKKACiiigAooooA/9b+/iiiigAooooAKKKKACiiigAooooA/9f+/iiiigAooooAKKKKACiiigAo
+        oooA/9D+/iiiigAooooAKKKKACiiigAooooA/9H+/iiiigAooooAKKKKACiiigAooooA/9L+/iiiigAo
+        oooAKKKKACiiigAooooA/9P+/iiiigAooooAKKKKACiiigAooooA/9T+/iiiigAooooAKKKKACiiigAo
+        oooA/9X+/iiiigAooooAKKKKACiiigAooooA/9b+/iiiigAooooAKKKKACiiigAooooA/9f+/iiiigAo
+        oooAKKKKACiiigAooooA/9D+/iiiigAooooAKKKKACiiigAooooA/9H+/iiiigAooooAKKKKACiiigAo
+        oooA/9L+/iiiigAooooAKKKKACiiigAooooA/9P+/iiiigAooooAKKKKACiiigAooooA/9T+/iiiigAo
+        oooAKKKKACiiigAooooA/9X+/iiiigAooooAKKKKACiiigAooooA/9b+/iiiigAooooAKKKKACiiigAo
+        oooA/9f+/iiiigAooooAKKKKACiiigAooooA/9D+/iiiigAooooAKKKKACiiigAooooA/9H+/iiiigAo
+        oooAKKKKACiiigAooooA/9L+/iiiigAooooAKKKKACiiigAooooA/9P+/iiiigAooooAKKKKACiiigAo
+        oooA/9T+/iiiigAooooAKKKKACiiigAooooA/9X+/iiiigAooooAKKKKACiiigAooooA/9b+/iiiigAo
+        oooAKKKKACiiigAooooA/9f+/iiiigAooooAKKKKACiiigAooooA/9D+/iiiigAooooAKKKKACiiigAo
+        oooA/9H+/iiiigAooooAKKKKACiiigAooooA/9L+/iiiigAooooAKKKKACiiigAooooA/9P+/iiiigAo
+        oooAKKKKACiiigAooooA/9T+/iiiigAooooAKKKKACiiigAooooA/9X+/iiiigAooooAKKKKACiiigAo
+        oooA/9b+/iiiigAooooAKKKKACiiigAooooA/9f+/iiiigAooooAKKKKACiiigAooooA/9D+/iiiigAo
+        oooAKKKKACiiigAooooA/9H+/iiiigAooooAKKKKACiiigAooooA/9L+/iiiigAooooAKKKKACiiigAo
+        oooA/9P+/iiiigAooooAKKKKACiiigD/2Q==
+</value>
+  </data>
+</root>
